@@ -1,0 +1,2 @@
+table,td,th{border:1px solid black;border-collapse:collapse;padding:2px 10px;}
+th{cursor:n-resize;background-color:lightgrey;}
